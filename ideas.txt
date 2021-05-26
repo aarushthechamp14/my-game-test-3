@@ -1,0 +1,5 @@
+a game in which we are trying to find an ancient treasure
+on an isolated island and we do puzzles to get to the treasure
+there is also some people for quests and they give us clues about the treasure
+after we do their quests.
+https://www.educative.io/blog/javascript-snake-game-tutorial
